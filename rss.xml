@@ -2,10 +2,22 @@
     <channel>
         <title><![CDATA[gooseberrymoon]]></title>
         <description><![CDATA[gooseberrymoon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gooseberrymoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 21:11:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 21:22:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gooseberrymoon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Beautifully simple wedding stationery which can be customised to create tailor-made designs. Choose a design or motif from the collections as a starting point. Change colours and fonts, add patterns and co-ordinating extras, such as information cards and envelope liners, to create something unique to you that reflects the feel of your wedding.
+ 
+Whether you need invitations only, for an intimate celebration, or you'd like to create a beautiful paper trail
+throughout your big day, I'd love to help you create your perfect stationery.
+ 
+Browse the collections below to see examples of designs in lovely colour palettes, with modern typography and pretty patterns to inspire.</p>]]></description>
+            <link>https://thegrid.ai/gooseberrymoon/733094f0-3a88-4155-b23e-a423ee330432/index.html</link>
+            <guid isPermaLink="false">733094f0-3a88-4155-b23e-a423ee330432</guid>
+            <pubDate>Sat, 02 Apr 2016 21:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Gooseberry Moon, where timeless elegance meets simplicity. Established at the end of 2008 by Print Designer, Nicola Jones, and is run from her home studio in North Wales.
@@ -15,9 +27,9 @@ I have a passion for paper and design and believe stationery has a big part to p
 My delicate hand-drawn botanical illustrations, classic typography, simple patterns on beautiful papers make the perfect combination for an elegant and timeless celebration. You will also find my botanical illustrations on notebooks and art prints.
 
 I pride myself on excellent communication and customer service throughout the order process, ensuring it's an enjoyable and stress-free experience. If you have any questions please get in touch. As seen in March 2016 issue of Ideal Home Magazine!</p>]]></description>
-            <link>undefinedwelcome-to-gooseberry-moon-where-timeless-elegance-meets-si/index.html</link>
+            <link>https://thegrid.ai/gooseberrymoon/welcome-to-gooseberry-moon-where-timeless-elegance-meets-si/index.html</link>
             <guid isPermaLink="false">28410f03-3e00-47a1-9493-0303ad7a5a15</guid>
-            <pubDate>Sat, 02 Apr 2016 21:11:06 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 21:22:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
