@@ -30,24 +30,20 @@ description: >-
 
   I pride myself on excellent communication and customer service throughout the
   order process, ensuring it's an enjoyable and stress-free experience. If you
-  have any questions please get in touch via the 'ask seller a question' button
-  that's on each product page.
-
-
-
-  As seen in March 2016 issue of Ideal Home Magazine!
-datePublished: '2016-04-02T21:11:06.396Z'
-dateModified: '2016-04-02T21:10:43.988Z'
+  have any questions please get in touch. As seen in March 2016 issue of Ideal
+  Home Magazine!
+datePublished: '2016-04-02T21:22:33.885Z'
+dateModified: '2016-04-02T21:11:12.319Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-02-welcome-to-gooseberry-moon-where-timeless-elegance-meets-si.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-welcome-to-gooseberry-moon-where-timeless-elegance-meets-si.md
-published: true
 url: welcome-to-gooseberry-moon-where-timeless-elegance-meets-si/index.html
 _type: Article
 
